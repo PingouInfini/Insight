@@ -284,7 +284,7 @@ Tag and push
 
     docker-compose -f .\graph.yml -p janusgraph -d --build
 
-    java -cp target/insight.war com.peploleum.insight.service.impl.JanusClientImpl
+    java -cp target/insight.war com.pingouinfini.insight.service.impl.JanusClientImpl
 
 ### Create graph from the command line
 

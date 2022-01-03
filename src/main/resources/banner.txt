@@ -6,4 +6,4 @@
   ${AnsiColor.GREEN}╚██████╔╝${AnsiColor.RED} ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
   ${AnsiColor.GREEN} ╚═════╝ ${AnsiColor.RED} ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
 ${AnsiColor.BRIGHT_BLUE}:: Insight :: Running Spring Boot ${spring-boot.version} ::
-:: https://github.com/peploleum/insight ::${AnsiColor.DEFAULT}
+:: https://github.com/pingouinfini/Insight ::${AnsiColor.DEFAULT}

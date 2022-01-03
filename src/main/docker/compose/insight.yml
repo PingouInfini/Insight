@@ -179,7 +179,7 @@ services:
         - insight
     #yummy
     yummy:
-        image: peploleum/yummy:latest
+        image: pingouinfinihub/yummy:latest
         environment:
             SPRING_MAIN_WEB_APPLICATION_TYPE: none
             SPRING_CLOUD_STREAM_KAFKA_BINDER_BROKERS: kafka:9092
@@ -217,7 +217,7 @@ services:
         networks:
         - insight
     insight-app:
-        image: peploleum/insight:latest
+        image: pingouinfinihub/insight:latest
         environment:
         - _JAVA_OPTIONS=-Xmx512m -Xms256m
         - SPRING_PROFILES_ACTIVE=prod,swagger,graphy,reach

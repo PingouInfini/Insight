@@ -17,7 +17,7 @@ logging:
     level:
         ROOT: INFO
         io.github.jhipster: DEBUG
-        com.peploleum.insight: DEBUG
+        com.pingouinfini.insight: DEBUG
 
 spring:
     profiles:

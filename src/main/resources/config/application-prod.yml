@@ -16,7 +16,7 @@
 logging:
     level:
         ROOT: INFO
-        com.peploleum.insight: INFO
+        com.pingouinfini.insight: INFO
         io.github.jhipster: INFO
 
 spring:

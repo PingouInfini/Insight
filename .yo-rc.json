@@ -1,14 +1,14 @@
 {
     "generator-jhipster": {
         "promptValues": {
-            "packageName": "com.peploleum.insight",
+            "packageName": "com.pingouinfini.insight",
             "nativeLanguage": "en"
         },
         "jhipsterVersion": "5.7.1",
         "applicationType": "monolith",
         "baseName": "insight",
-        "packageName": "com.peploleum.insight",
-        "packageFolder": "com/peploleum/insight",
+        "packageName": "com.pingouinfini.insight",
+        "packageFolder": "com/pingouinfini/insight",
         "serverPort": "8080",
         "authenticationType": "session",
         "cacheProvider": "ehcache",
