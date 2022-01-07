@@ -52,7 +52,7 @@ spring:
             endpoint: 192.168.0.2
             port: 8182
             telemetryAllowed: false
-            # username: capgemini
+            # username: damien
             # password: root
     mail:
         host: localhost

@@ -107,7 +107,7 @@ services:
         - SPRING_DATA_GREMLIN_PORT=8182
         - SPRING_DATA_GREMLIN_SSL_ENABLED=false
         - SPRING_DATA_GREMLIN_TELEMETRY_ALLOWED=false
-        - SPRING_DATA_GREMLIN_USERNAME=capgemini
+        - SPRING_DATA_GREMLIN_USERNAME=damien
         - SPRING_DATA_GREMLIN_PASSWORD=root
         ports:
         - 8080:8080

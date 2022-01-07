@@ -34,7 +34,7 @@ spring:
         gremlin:
             endpoint: janusgraph
             port: 8182
-            username: capgemini
+            username: damien
             password: root
     mail:
         host: localhost
